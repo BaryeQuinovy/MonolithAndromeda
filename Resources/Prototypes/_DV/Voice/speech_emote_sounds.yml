@@ -215,9 +215,9 @@
     variation: 0.125
   sounds:
     Scream:
-      path: /Audio/Animals/mouse_squeak.ogg
+      collection: RodentMaleScreams
     Laugh:
-      collection: MaleLaugh
+      collection: RodentLaugh
     Sneeze:
       collection: MaleSneezes
     Cough:
@@ -246,6 +246,8 @@
       collection: MaleDeathGasp
     Belch: # Frontier
       collection: Belch # Frontier
+    Sniff:
+      collection: RodentSniffs
 
 - type: emoteSounds
   id: FemaleRodentia
@@ -253,9 +255,9 @@
     variation: 0.125
   sounds:
     Scream:
-      path: /Audio/Animals/mouse_squeak.ogg
+      collection: RodentFemaleScreams
     Laugh:
-      collection: FemaleLaugh
+      collection: RodentLaugh
     Sneeze:
       collection: FemaleSneezes
     Cough:
@@ -284,6 +286,8 @@
       collection: FemaleDeathGasp
     Belch: # Frontier
       collection: Belch # Frontier
+    Sniff:
+      collection: RodentSniffs
 
 - type: emoteSounds
   id: UnisexChitinid
