@@ -91,7 +91,13 @@ public sealed partial class ChatSanitizationManager : IChatSanitizationManager
         Entry("[':", "chatsan-tearfully-smiles"),
         Entry("('=", "chatsan-tearfully-smiles"),
         Entry("['=", "chatsan-tearfully-smiles"),
-        (new(@"^[kopsarhud]+\b", RegexOptions.RightToLeft | RegexOptions.IgnoreCase | RegexOptions.Compiled), "chatsan-laughs"), // Andromeda: Chatsan para risadas brasileiras (kospaksoa, ushausauha, rsrsrs, kkkkk, kakaka)
+        // Andromeda start: Brazillian netspeak laughs
+        AnyCharacterEntry("ka", 2, "chatsan-laughs"),
+        AnyCharacterEntry("rs", 2, "chatsan-laughs"),
+        AnyCharacterEntry("huas", 5, "chatsan-laughs"),
+        AnyCharacterEntry("huasd", 7, "chatsan-laughs"),
+        AnyCharacterEntry("kopsa", 8, "chatsan-laughs"),
+        // Andromeda end
     ];
 
     [Dependency] private IConfigurationManager _configurationManager = default!;
