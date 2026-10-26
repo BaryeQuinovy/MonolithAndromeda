@@ -101,6 +101,11 @@
       amount: 5
   - type: TypingIndicator
     proto: rodentia
+  - type: Vocal
+    sounds:
+      Male: MaleRodentia
+      Female: FemaleRodentia
+      Unsexed: MaleRodentia
   - type: Tag
     tags:
     - RodentEmotes
