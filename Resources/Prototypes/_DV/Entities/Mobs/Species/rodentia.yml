@@ -24,11 +24,6 @@
     allowedEmotes:
     - Squeak
     - Belch # Frontier
-  - type: Vocal
-    sounds:
-      Male: MaleRodentia
-      Female: FemaleRodentia
-      Unsexed: MaleRodentia
   - type: Fixtures
     fixtures: # TODO: This needs a second fixture just for mob collisions.
       fix1:
