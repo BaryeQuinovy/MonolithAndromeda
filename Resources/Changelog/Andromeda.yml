@@ -227,3 +227,12 @@ Entries:
   id: 27
   time: '2026-10-26T21:23:32.0000000+00:00'
   url: https://github.com/Estacao-Andromeda/Monolith/pull/36
+- author: Dragometh
+  changes:
+    - type: Tweak
+      message: >-
+        Reduz minimo de players necessário para outros gamemodes (20 chimera, 10
+        crocus, 5 outros)
+  id: 28
+  time: '2026-10-26T22:49:00.0000000+00:00'
+  url: https://github.com/Estacao-Andromeda/Monolith/pull/37
