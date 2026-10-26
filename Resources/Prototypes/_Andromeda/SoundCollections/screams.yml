@@ -1,0 +1,12 @@
+- type: soundCollection
+  id: RodentFemaleScreams
+  files:
+    - /Audio/_Andromeda/Voice/Rodentia/Rodentia_scream.ogg
+    - /Audio/_Andromeda/Voice/Rodentia/Rodentia_scream02.ogg
+
+- type: soundCollection
+  id: RodentMaleScreams
+  files:
+    - /Audio/_Andromeda/Voice/Rodentia/Rodentia_scream.ogg
+    - /Audio/_Andromeda/Voice/Rodentia/Rodentia_scream02.ogg
+
