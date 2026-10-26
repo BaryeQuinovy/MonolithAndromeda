@@ -13,7 +13,7 @@ mono-mixed-description = Imperiais PDV nativos ameaçam a expansão colonial da 
 mono-tsfussp-title = Guerra Fria (TSF)
 mono-tsfussp-description = Os esforços de colonização da TSF são ameaçados pela expansão da USSP. Uma guerra fria está em vigor entre o destacamento TSFMC local e as forças de colonização da USSP.
 
-mono-standard-title = Insurreição (TSF|PDV, 6hr)
+mono-standard-title = Insurreição (TSF|PDV, 12hr)
 mono-standard-description = Os esforços da Federação Trans-Solariana de colonizar o setor Colossus estão sob perigo graças a uma insurreição teocrática, com civís no meio do conflito.
 
 mono-ads-title = Remanescentes (TSF|PDV)
