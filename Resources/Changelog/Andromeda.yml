@@ -213,3 +213,10 @@ Entries:
   id: 25
   time: '2026-10-26T17:20:12.0000000+00:00'
   url: https://github.com/Estacao-Andromeda/Monolith/pull/33
+- author: WindiBunny
+  changes:
+    - type: Add
+      message: Sons novos pro rodentia e emotes
+  id: 26
+  time: '2026-10-26T19:26:16.0000000+00:00'
+  url: https://github.com/Estacao-Andromeda/Monolith/pull/35
