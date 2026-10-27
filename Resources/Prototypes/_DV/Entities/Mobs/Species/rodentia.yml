@@ -109,6 +109,11 @@
   - type: Tag
     tags:
     - RodentEmotes
+    - CanPilot
+    - FootstepSound
+    - DoorBumpOpener
+    - AnomalyHost
+    - Humanoid # Mono
   - type: LanguageKnowledge # Einstein Engines - Language
     speaks:
     - TauCetiBasic
