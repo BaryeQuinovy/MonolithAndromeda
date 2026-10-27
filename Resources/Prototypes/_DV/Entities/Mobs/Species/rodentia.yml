@@ -106,9 +106,6 @@
       Male: MaleRodentia
       Female: FemaleRodentia
       Unsexed: MaleRodentia
-  - type: Tag
-    tags:
-    - RodentEmotes
   - type: LanguageKnowledge # Einstein Engines - Language
     speaks:
     - TauCetiBasic
