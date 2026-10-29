@@ -180,7 +180,7 @@
   description: mono-allatonce-description
   showInVote: true # we ball
   weight: 0.25 # requires 80% votes
-  minPlayers: 5 # Andromeda: Reduz minplayers necessarios pros outros gamemodes
+  minPlayers: 20 # Andromeda: Reduz minplayers necessarios pros outros gamemodes
   rules:
   - NFAdventure
   - BasicStationEventScheduler

@@ -94,9 +94,9 @@ public sealed partial class ChatSanitizationManager : IChatSanitizationManager
         // Andromeda start: Brazillian netspeak laughs
         AnyCharacterEntry("ka", 2, "chatsan-laughs"),
         AnyCharacterEntry("rs", 2, "chatsan-laughs"),
-        AnyCharacterEntry("huas", 5, "chatsan-laughs"),
-        AnyCharacterEntry("huasd", 7, "chatsan-laughs"),
-        AnyCharacterEntry("kopsa", 8, "chatsan-laughs"),
+        AnyCharacterEntry("huas", 10, "chatsan-laughs"),
+        AnyCharacterEntry("huasd", 10, "chatsan-laughs"),
+        AnyCharacterEntry("kopsa", 10, "chatsan-laughs"),
         // Andromeda end
     ];
 
